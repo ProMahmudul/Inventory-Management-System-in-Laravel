@@ -16,7 +16,9 @@ Clone the repository or doanload the project from github
 
 Copy that project in htdocs folder and open the folder location in cmd.
 
-Now first rename the "env.example" file to ".env"
+Import database laravel_inventory.sql
+
+Now rename the "env.example" file to ".env"
 
 You can configure the database informations here.
 
@@ -44,6 +46,14 @@ You can now access the server at http://localhost:8000
 
     php artisan migrate
     php artisan serve
+    
+## Admin Login Credentials
+
+email: mahmudul89277@gmail.com 
+
+password: 1234
+
+**you can change it from database as per your need.
 
 
 ## Environment variables
