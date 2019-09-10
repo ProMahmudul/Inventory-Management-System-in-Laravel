@@ -1,0 +1,12 @@
+.stockout-table-one{
+    font-size: 14px;
+}
+
+.role-list-info-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.role-list-info-header > p {
+    margin: 6px 0px;
+}
